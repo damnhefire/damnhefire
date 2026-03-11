@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi, I'm Hisham.
+
+Business graduate focused on operations, digital coordination and remote work systems.
+
+Skills
+- Operations support
+- Administrative coordination
+- Documentation systems
+- Remote workflow tools
+
+Location: Ethiopia
 
 <!--
 **damnhefire/damnhefire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
